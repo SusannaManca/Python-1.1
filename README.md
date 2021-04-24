@@ -9,4 +9,5 @@ Perform operations on String \
 Manipulate Strings using indexing and escape sequences \
 Perform list operations in Python, including indexing, list manipulation and copy/clone list \
 Perform the basics tuple operations in Python, including indexing, slicing and sorting \
-Work with libraries in Python, including operations
+Work with libraries in Python, including operations \
+Work with sets in Python, including operations and logic operations.

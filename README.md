@@ -15,4 +15,6 @@ Work with condition statements in Python, including operators, and branching \
 Work with the loop statements in Python, including for-loop and while-loop \
 Understand functions and variables \
 Work with functions and variables \
-Exception Handling
+Exception Handling \
+Work with classes and objects \
+Identify and define attributes and methods .

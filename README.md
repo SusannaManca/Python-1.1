@@ -20,4 +20,6 @@ Work with classes and objects \
 Identify and define attributes and methods \
 Read text files using Python libraries
 Import and use numpy library \
-Perform operations with numpy
+Perform operations with numpy \
+Operate comfortably with numpy \
+Perform complex operations with numpy

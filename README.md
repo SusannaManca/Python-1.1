@@ -19,3 +19,5 @@ Exception Handling \
 Work with classes and objects \
 Identify and define attributes and methods \
 Read text files using Python libraries
+Import and use numpy library \
+Perform operations with numpy

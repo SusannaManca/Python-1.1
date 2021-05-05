@@ -25,3 +25,14 @@ Operate comfortably with numpy \
 Perform complex operations with numpy \
 Understand HTTP \
 Handle the HTTP Requests \
+Beautiful Soup Object \
+Tag \
+Children, Parents, and Siblings \
+HTML Attributes \
+Navigable String \
+Filter \
+find All \
+find \
+HTML Attributes \
+Navigable String \
+Downloading And Scraping The Contents Of A Web 

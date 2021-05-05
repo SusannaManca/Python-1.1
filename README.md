@@ -35,4 +35,8 @@ find All \
 find \
 HTML Attributes \
 Navigable String \
-Downloading And Scraping The Contents Of A Web 
+Downloading And Scraping The Contents Of A Web \
+Data Engineering \
+Data Engineering Process \
+Working with different file formats \
+Data Analysis

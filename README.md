@@ -22,4 +22,6 @@ Read text files using Python libraries
 Import and use numpy library \
 Perform operations with numpy \
 Operate comfortably with numpy \
-Perform complex operations with numpy
+Perform complex operations with numpy \
+Understand HTTP \
+Handle the HTTP Requests \
